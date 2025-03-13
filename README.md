@@ -1,4 +1,4 @@
-# Portfólio de Lucas Jean Ferreira Monteiro
+# Meu Portfólio Lucas
 
 Este repositório contém meu portfólio pessoal. Você encontrará várias páginas que refletem minha trajetória e habilidades:
 
